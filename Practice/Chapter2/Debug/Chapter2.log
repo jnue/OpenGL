@@ -1,0 +1,15 @@
+﻿Chapter2.obj : error LNK2019: 无法解析的外部符号 __imp__glClear@4，函数 "void __cdecl display(struct GLFWwindow *,double)" (?display@@YAXPAUGLFWwindow@@N@Z) 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 __imp__glClearColor@16，函数 "void __cdecl display(struct GLFWwindow *,double)" (?display@@YAXPAUGLFWwindow@@N@Z) 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 __imp__glewInit@0，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwInit，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwDestroyWindow，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwWindowShouldClose，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwGetTime，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwSwapBuffers，函数 _main 中引用了该符号
+Chapter2.obj : error LNK2019: 无法解析的外部符号 _glfwSwapInterval，函数 _main 中引用了该符号
+G:\TestProject\OpenGL\Practice\Debug\Chapter2.exe : fatal error LNK1120: 14 个无法解析的外部命令
