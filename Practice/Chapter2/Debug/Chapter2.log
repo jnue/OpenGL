@@ -1,4 +1,4 @@
-﻿  Chapter2.cpp
-G:\TestProject\OpenGL\Practice\Chapter2\Chapter2.cpp(10,39): warning C4305: “参数”: 从“double”到“GLclampf”截断
+﻿  FirstWindow.cpp
+G:\TestProject\OpenGL\Practice\Chapter2\FirstWindow.cpp(10,39): warning C4305: “参数”: 从“double”到“GLclampf”截断
 LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
   Chapter2.vcxproj -> G:\TestProject\OpenGL\Practice\Debug\Chapter2.exe
