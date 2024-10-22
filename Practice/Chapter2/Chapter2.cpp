@@ -17,7 +17,7 @@ int main(void) {
 
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 4);
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
-	GLFWwindow* window = glfwCreateWindow(600, 600, "Chapter2 - program1", NULL, NULL);
+	GLFWwindow* window = glfwCreateWindow(600, 400, "Chapter2 - program1", NULL, NULL);
 	glfwMakeContextCurrent(window);
 
 	// init GLEW
